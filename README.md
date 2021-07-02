@@ -1,2 +1,2 @@
 # Data_Analytics
-It has all codes relevant to data analytics.
+Data Analytics repository contains codes and other informations of pertinent tools of data analysis.
