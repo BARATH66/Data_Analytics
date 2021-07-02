@@ -1,2 +1,2 @@
 # Data_Analytics
-It has all codes relevant to data analytics.
+Python branch has the relevant codes, which are pertinent to data analysis.
